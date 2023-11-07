@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Viewport-Inspector/static/css/main.5422dcf4.css",
+    "main.js": "/Viewport-Inspector/static/js/main.238d2c17.js",
+    "index.html": "/Viewport-Inspector/index.html",
+    "main.5422dcf4.css.map": "/Viewport-Inspector/static/css/main.5422dcf4.css.map",
+    "main.238d2c17.js.map": "/Viewport-Inspector/static/js/main.238d2c17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5422dcf4.css",
+    "static/js/main.238d2c17.js"
+  ]
+}
