@@ -7,15 +7,18 @@
   align-self: center;
   text-align: center;
 }
-
-.title {
+.container {
   display: inline-block;
   background-color: #ff426f;
   border-radius: 20px;
-  padding: 0 1em;
+  padding: 0 6px;
 }
 
 .data {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   display: inline-block;
+  padding: 4px 5px;
   background-color: aquamarine;
+  border-radius: 8px;
 }
