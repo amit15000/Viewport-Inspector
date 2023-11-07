@@ -4,12 +4,18 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-content: center;
+  align-self: center;
   text-align: center;
 }
+
 .title {
-  background-color: #ff426f;
   display: inline-block;
+  background-color: #ff426f;
   border-radius: 20px;
   padding: 0 1em;
+}
+
+.data {
+  display: inline-block;
+  background-color: aquamarine;
 }

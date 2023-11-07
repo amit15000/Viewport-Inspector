@@ -18,14 +18,16 @@ function App() {
   });
   return (
     <div className="size">
-      <div className="dimension">
-        <div className="title">
-          <h2>Browser Dimensions Tracker</h2>
+      <div>
+        <h2 className="title">Browser Dimensions Tracker</h2>
+        <div>
+          <div className="width">
+            <h3 className="data">Width :{browserWidth}</h3>
+          </div>
+          <div className="width">
+            <h3 className="data">Height:{browserHeight}</h3>
+          </div>
         </div>
-        <h3>Width :{browserWidth}</h3>
-      </div>
-      <div className="dimension">
-        <h3>Width:{browserHeight}</h3>
       </div>
     </div>
   );
